@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RajaSJN
-- 👀 I’m interested in Machine Learning & Computer Vision, and their applications within Finance
+- 👀 I’m interested in Machine Learning & Computer Vision, and their applications within different industries
 - 🌱 I’m currently learning Computer Engineering in HKUST
 
 <!---
