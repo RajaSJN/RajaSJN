@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RajaSJN
-- 👀 I’m interested in Full Stack Development, Machine Learning & Computer Vision, and their applications within different industries
-- 🌱 I’m currently working as a Machine Learning Engineer in JPM Asset Management in the Applied AI/ML Team
+👋 Hi, I’m @RajaSJN
+I'm a passionate Machine Learning Engineer at JPMorgan Asset Management, working in the Applied AI/ML Team. My work focuses on leveraging machine learning to drive innovative solutions in the financial industry.
 
-<!---
-RajaSJN/RajaSJN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interests: Full Stack Development, Machine Learning, Computer Vision, and their applications across various industries.
+🎓 Education: Studied Computer Engineering at The Hong Kong University of Science and Technology (HKUST).
+🌱 Current Role: Building and deploying advanced AI/ML models to solve real-world problems in asset management.
