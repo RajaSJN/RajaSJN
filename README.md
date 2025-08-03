@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @RajaSJN
+# 👋 Hi, I’m Sid
 - I'm a passionate Machine Learning Engineer at JPMorgan Asset Management, working in the Applied AI/ML Team. My work focuses on leveraging machine learning to drive innovative solutions in the financial industry.
 
 ##
